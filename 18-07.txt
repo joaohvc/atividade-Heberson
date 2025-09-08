@@ -1,0 +1,33 @@
+BANDO DE DADOS 
+No estudo de caso que estaremos analisando, 
+construiremos um sistema para o gerenciamento de estoque de um centro de disribuição de uma rede de lojas
+ as mercadoris compradas pela rede serao armazenadas nwsre estoque central .
+ A partir disso a medida que as lojas precisarem das mercadorias o pedido sera feito para o estoque central. esse sistema podea ser aplicado para controlar o estoque.
+de uma rede de lojas em qualquer ramo. Descriçao do sistema;
+1) o sistema deve ter a capacidade de armazenar os produtos contidos o estoque para que esses possam ser controlados individualmente
+outro detalhe importante no cadastro do podruto é armazenar a quantidade minima que devera ter desse produto no estoque;
+
+
+2)cada produto tera um fornecedor relacionado a ele, sendo possivel controlar os produtos divididos por fornecedores;
+
+
+3)os produtos devem ser divididos por categoria ou seja, cada produto tera uma categoria;
+
+
+
+
+4) as entradas e saidas dos produtos deverao ser registradas no progama 
+para futuramente obtermos um historico ompleto de todo o trajeto do produto dentro do centro de distribuiçao
+
+
+5)na entrada do produto sera nescessario armazenar a data do pedido e a data de entrehua da mercadoria
+para depois podermos analisar quanto tempo o pedido demora a chegar no estoque.
+
+
+
+6)na saida obrigatoriamente sera informada a loja para a qual a mercadoria foi enviada , pois ao final do mes devemos
+fazer o fechamento do faturamento para saber qual e a loja que mais obteve vendas
+
+
+
+7) outra capacidade que o sistema devera ter é calcular o peso total de uma entrada ou de uma saida;
